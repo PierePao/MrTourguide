@@ -1,4 +1,4 @@
-# MrTourguide
+# MR TOUR GUIDE
 Title: 
     Mixed Reality Based Mapping Platform for Cultural Heritage and Tourism Sites in Nasugbu, Batangas
 
